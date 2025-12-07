@@ -39,7 +39,7 @@ Found a solution to a tricky problem? Share it!
 
 ### 3. Report Issues
 
-Help us improve by reporting:
+Help improve the libraries by reporting:
 - Bugs in the libraries
 - Unclear documentation
 - Missing examples
